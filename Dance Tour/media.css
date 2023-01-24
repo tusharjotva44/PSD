@@ -1,0 +1,242 @@
+@media (min-width:988px) and (max-width:1200px) {
+    .container {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 70px; 
+    }
+    }.cart-text {
+        padding:0;
+    }
+
+@media  (min-width:867px) and  (max-width:989px) {
+    .container{
+        width: 100%;
+        padding: 0 50px;
+    }
+        .col-50{
+        width: 100% !important;
+        
+        }
+        .pd{padding: 50px 40px;}
+        .ty{
+        margin-top: 15px;
+        }
+        .se{
+            margin-left: 30px;
+        }
+       .cart p{
+        margin: 0 0 10px 0;
+       }
+       .col-30 h1{
+        font-size: 42px;
+       }
+       .cart-text p {
+        font-size: 33px;
+    }
+    }   
+    @media (min-width:667px) and (max-width:868px){
+        .container{
+            width: 100%;
+            padding: 0 20px;
+        }
+        .titletext input ,.sec-sixtext h1,.cart-one,.cart-two,.cart-three{
+            margin: 0;
+        } 
+        .text4{
+            padding: 35px;
+        }
+        .cart h3{
+            font-size: 28px;
+        }
+        .cart p{
+            margin: 0;
+            padding-bottom: 10px;
+        }
+        .col-30 p{
+            padding: 0;
+            font-size: 28px;
+        }
+        .col-30 h1{
+            font-size: 45px;
+        }
+        .col-20 h2 , .col-40 h1{
+            font-size: 28px;
+        }
+        .col-20 ul li a , .col-40 p{
+            font-size: 17px;
+        }
+        .pd{
+            padding: 50px 50px 30px 50px;
+        }
+    }
+    @media (min-width:598px) and (max-width:668px){
+        .container{
+            width: 100%;
+            padding: 0 20px;
+        }
+        .col-50{
+            width: 100%;
+        }
+        .titletext{
+            margin: 0;
+            padding: 0;
+
+        }
+        .line{
+            display: block;
+        }
+        .col-30 p{
+            margin: 0;
+        }
+        .col-20 h2 , .col-40 h1{
+            font-size: 33px;
+        }
+        .titletext input ,.sec-sixtext h1,.cart-one,.cart-two,.cart-three{
+            margin: 0;
+        } 
+        .sec-sixtext p{
+            font-size: 30px;
+        }
+        .titletext input{
+            margin:50px 0;
+        }
+        .text4{
+            padding: 35px;
+        }
+        .cart h3{
+            font-size: 27px;
+        }
+        .cart{
+            padding:0 0 40px 0;
+        }
+        .cart p{
+            margin: 0;
+            padding-bottom: 10px;
+        }
+        .col-30 p{
+            padding: 0;
+            font-size: 28px;
+        }
+        .col-30 h1{
+            font-size: 45px;
+        }
+        .col-20 h2 , .col-40 h1{
+            font-size: 28px;
+        }
+        .col-20 ul li a , .col-40 p{
+            font-size: 17px;
+        }
+        .pd{
+            padding: 50px 50px 30px 50px;
+        }
+    }
+    @media (min-width:470px) and (max-width:598px){
+        .container{
+            width: 100% !important;
+            padding: 0 30px;
+            margin: 0 auto;
+        }
+        .row{
+            display: block;
+        }
+        .cart{
+            display: block;
+        }
+        .cart-one, .cart-two, .cart-three{
+            margin: 20px 0;
+            width: 100%;
+            border-radius: 15px;
+        }
+        .pd{
+            border-radius: 20px;
+        }
+        .col-50{
+            width: 100%;
+        }
+        .text4 h4{
+            font-size: 50px;
+        }
+        .text4 p{
+            text-align: center;
+        }
+        .cart p{
+            margin: 20px 20px 0px 20px;
+        }
+        .col-20, .col-40{
+            width: 100%;
+            padding: 20px 0 0 0;
+        }
+        .col-40 , .col-20 h2{
+            text-align: center;
+        }
+        .col-20 ul li{
+            display: block;
+            text-align: center;
+            margin: 0 auto;
+        }
+    }
+    @media (max-width:470px){
+        .container{
+            width: 100% !important;
+            padding: 0 30px;
+            margin: 0 auto;
+        }
+        .row{
+            display: block;
+        }
+        .cart{
+            display: block;
+            padding: 20px 0;
+            margin: 0;
+        }
+        .cart-one, .cart-two, .cart-three{
+            margin: 20px  0;
+            width: 100%;
+            border-radius: 15px;
+        }
+        .text4 p ,.col-30 p,.sec-seventext p,.sec-sixtext p {
+            font-size: 20px;
+        }
+        .btn input {
+            width: 58%;
+        }
+        .pd{
+            padding: 35px 100px;
+            border-radius: 20px;
+        }
+        .col-50{
+            width: 100%;
+        }
+        .text4 h4 , .col-30 h1, .sec-seventext h1,.col-20 h2,.sec-sixtext h1,.titletext h1{
+            font-size: 40px;
+        }
+        
+        .cart p{
+            margin: 20px 20px 0px 20px;
+            padding-bottom: 20px;
+        }
+        .col-20, .col-40{
+            width: 100%;
+            padding: 20px 0 0 0;
+        }
+        .col-40 , .col-20 h2{
+            text-align: center;
+        }
+        .col-20 ul li{
+            display: block;
+            text-align: center;
+            margin: 0 auto;
+        }
+        .sec-eight-icon{
+            padding:0 0 20px 0;
+        }
+        .titletext input ,  .titletext,.sec-sixtext h1{
+            margin: 0;
+        }
+      .col-30 p,.sec-sixtext p{
+        padding: 0;
+      }
+      .cart-one img,.cart-two img,.cart-three img{
+        border-radius: 20px;
+      }
+    }
